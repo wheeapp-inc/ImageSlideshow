@@ -43,6 +43,7 @@ DEPENDENCIES:
   - ImageSlideshow/Alamofire (from `../`)
   - ImageSlideshow/Kingfisher (from `../`)
   - ImageSlideshow/SDWebImage (from `../`)
+  - SDWebImage
 
 SPEC REPOS:
   https://github.com/cocoapods/specs.git:
@@ -64,6 +65,6 @@ SPEC CHECKSUMS:
   Kingfisher: 6fe5e67a90fd335e49b0f5c075ff55ac5ebedd94
   SDWebImage: d4f87d7d36c8a4d9f9459dc282e0caa057fdf935
 
-PODFILE CHECKSUM: 46015634277c8c8bfd78d1b363e41ea2dfd179d9
+PODFILE CHECKSUM: f4035c3041ba30e4c3c6ada2b154c547382dcdc5
 
-COCOAPODS: 1.7.0
+COCOAPODS: 1.7.4

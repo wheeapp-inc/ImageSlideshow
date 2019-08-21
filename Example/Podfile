@@ -8,3 +8,7 @@ target 'ImageSlideshow_Example' do
     pod "ImageSlideshow/SDWebImage", :path => "../"
     pod "ImageSlideshow/Kingfisher", :path => "../"
 end
+
+target 'ImageSlideshow_framework' do
+  pod "SDWebImage"
+end
